@@ -9,7 +9,7 @@ class Program
         List<int> numberList = new List<int>();        
         int number = -1;
         double doubleVal = 10000.000000;
-        double smallestPositive = double.MaxValue;
+        // double smallestPositive = double.MaxValue;
         double smallestNegative = double.MinValue;
         while (number != 0)
         {
