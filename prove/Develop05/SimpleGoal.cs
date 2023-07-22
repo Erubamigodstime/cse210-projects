@@ -10,8 +10,7 @@ class SimpleGoal : Goal
 
     public SimpleGoal(string _shortName, string _description, int _points, bool isComplete) : base(_shortName, _description, _points, isComplete)
     {
-        
-
+                
     }
 
     public override int RecordEvent()
